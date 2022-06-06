@@ -1,0 +1,17 @@
+body {
+  font-family: 'Lato', sans-serif;
+  background-image: url(img/typinggiff.gif);
+  background-size: cover;
+}
+
+.inputs {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    align-items: center;
+    margin: 30px 0 0 40px;
+  }
+
+
+  
